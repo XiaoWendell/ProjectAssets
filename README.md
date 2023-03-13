@@ -1,14 +1,23 @@
 # my-project
 ##许可证
+###麻省理工学院执照
 
+版权所有 （c） 2023 小伍
 
+特此免费授予任何获得副本的人
+本软件和相关文档文件（“软件”），以处理
+在软件中不受限制，包括但不限于权利
+使用、复制、修改、合并、发布、分发、再许可和/或出售
+软件的副本，并允许软件所针对的人员
+提供，但须符合以下条件：
 
-<a rel=“license”href=“http://creativecommons.org/licenses/by-nc/3.0/">
+上述版权声明和本许可声明应包含在所有
+本软件的副本或大部分内容。
 
-<img alt=“Creative Commons License”style=“border width:0”src=“http://i.creativecommons.org/l/by-nc/3.0/88x31.png" />
-
-</a>
-
-<div><span xmlns:dct=“http://purl.org/dc/terms/“href=”http://purl.org/dc/dcmitype/Text“property=”dct:title“rel=”dct：type“><a xmlns:cc=”http://creativecommons.org/ns#“href=”http://zhangwenli.com“property=”cc:attributionName“rel=”cc:attributionURL“>Wenli Zhang</a>根据<a rel=”license“href=”http://creativecommons.org/licenses/by-nc/3.0/“>Creative Commons Attribution NonCommercial 3.0 Unported License</a>，基于<a xmlns:dct=”http://purl.org/dc/terms/“href=”http://github.com/ovilia/blog“rel=”dct:source“>http://github.com/ovilia/blog</a></分区>
-
-<div>您应该引用<code>作者：&lt；a href=“”；http://zhangwenli.com&quot;&gt；张文丽&lt/a&gt</如果您想完全或部分地重新发布内容，请与此许可证说明一起使用code>。另一方面，<a href=“https://github.com/Ovilia/ovilia.github.io“target=”_blank“>ovilia.github.io</a>和<a href=”https://github.com/Ovilia/blog“target=”_blank“>博客</a>项目是根据麻省理工学院许可证开源的。您可以在没有明确通知的情况下自由使用它们，尽管非常欢迎链接到此网站。</div>
+本软件按“原样”提供，不提供任何形式的明示或保证
+暗示，包括但不限于适销性保证，
+适用于特定目的且不侵权。在任何情况下，都不得
+作者或版权所有者对任何索赔、损害赔偿或其他索赔、损害赔偿或其他责任
+责任，无论是在合同、侵权或其他诉讼中，由以下原因引起：
+出于或与本软件有关，或在
+软件。
