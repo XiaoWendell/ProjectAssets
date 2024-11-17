@@ -1,4 +1,9 @@
-# my-project
+# MyProject
+# Hi there <img src="https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/images/wave.gif" width="30px" height="30px" /> <img align="right" src="https://profile-counter.glitch.me/XiaoWendell/count.svg" alt="XiaoWendell" />
+
+![dino](https://raw.githubusercontent.com/XiaoWendell/MyProject/master/images/GIF/dino.gif "dino")
+
+我是 Wendell，一名业余编程爱好者，这是我的[个人平台](https://XiaoWendell.github.io/)。
 
 ## 许可证
 
